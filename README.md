@@ -29,7 +29,7 @@ Successfully create, update, and delete data in my database
 ## Installation
 ## How to Use
 ## Contributors
-## [Content Management Demo](resources/Ecommerce.gif) 
+## [Content Management Demo](Resources/Ecommerce.gif) 
 
 
 ## Installation
@@ -47,7 +47,7 @@ Xavier D. Leonard Jr.(me)
 
 ## Demo
 
-![Ecommerce Demo](resources/Ecommerce.gif)
+![Ecommerce Demo](Resources/Ecommerce.gif)
 
 ## Links
 
