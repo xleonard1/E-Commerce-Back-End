@@ -34,12 +34,11 @@ Successfully create, update, and delete data in my database
 
 ## Installation
 
-To run this project the user needs to use their terminal or their gitbash application. The user must then cd into the index.js file and then run npm install.
-After running npm install the user can run node.js on the index.js file. Then the user need to only answer the questions that inquirer presents. 
+To run this project the user needs to run mysql -u root -p, then enter their sql password. Then the user must run SOURCE schema.sql to render the schema file and database. Then the user must run npm i on the server file. Once the user as run npm i, the user then needs to run npm run seeds, to render the seeds files to the databases. Lastly, the user must run node server.js and go into insomnia to run the requests. 
 
 ## How to use the Project
 
-The user only needs to answer the questions that are presented through inquirer on their terminal. This is not a front end application. It is a backend applicaiton. 
+The user only needs to know the express routes and the criteria for the post and put requests. 
 
 ## Contributors
 
